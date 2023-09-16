@@ -12,6 +12,11 @@ An urgent question comes to my mind
     2. AC Analysis
     3. Linear Transient Analysis
 
+# _**2st version of 𝑺𝒑𝒊𝒄𝒆 𝑻𝒐𝒐𝒍**_
+* provides the following capability:
+    1. Non-linear DC Analysis
+    2. Non-linear Transient Analysis
+
 # _**Netlist Creation & Run**_
    * After clone all files:
         * fill Netlist_file with your circuit description
@@ -28,5 +33,7 @@ An urgent question comes to my mind
 2. "
 [Analog/Mixed-Signal Simulation and Modeling](https://www.youtube.com/playlist?list=PLMSBalys69yxy9kAKVvXKgJpg8dFJ4JdK)
 " by Dr/Hesham Omran
-
+3.Circuit simulation by Faried N. Najm
+4.Steady-State Methods for Simulating Analog and Microwave Circuits by ken kundert
+5.Semiconductor device modeling with SPICE
 * The attached document contains more details about Netlist structure and examples for different analysis.
