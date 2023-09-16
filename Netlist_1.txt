@@ -1,0 +1,20 @@
+// op test
+R1 resistor 1 2 1
+D1 diode 0 2
+Vdc vcos 1 0 cos 10 100K
+//Vin2 Vsource 1 0 step 1
+//dcop dc
+tran tran 100n 100u
+plot V1
+plot V2
+
+
+
+
+//half wave rectifier circuit
+//R1 resistor 2 1 100K
+//C1 capacitor 2 0 1n
+//Vin2 Vcos 1 0 cos 1 1M
+//tran tran 10n 5u
+//plot V2
+
