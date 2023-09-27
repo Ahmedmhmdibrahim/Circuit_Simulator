@@ -23,10 +23,6 @@ An urgent question comes to my mind
         * using any command line window and type
         ```Python
         python main.py
-# _**The upcoming Work**_
-- Automated Netlist creation instead of manually.
-- Add non-linear devices such as (diode, transistor) (which is a big challenge)
-- Add more analysis (pole and zeros, noise)
 
 # _**References & Resources**_ 
 1. Electronic Circuit and System Simulation Methods by Lawrence T.pillage
